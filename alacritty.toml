@@ -1,0 +1,29 @@
+import = ["/Users/alex.shearer/.config/alacritty/themes/themes/xterm.toml"]
+
+[colors.primary]
+background = "#1d1f21"
+
+[cursor]
+blink_timeout = 0
+
+[cursor.style]
+blinking = "On"
+shape = "Underline"
+
+[font]
+size = 13.0
+
+[font.normal]
+family = "MesloLGSDZ Nerd Font Mono"
+# family = "ProggyClean Nerd Font Mono"
+# family = "ComicShannsMono Nerd Font Mono"
+
+
+[window]
+decorations = "Full"
+opacity = 0.75
+startup_mode = "Maximized"
+blur = true
+
+[scrolling]
+history = 100000
